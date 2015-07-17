@@ -15,3 +15,5 @@ ui->areaLabel_2->setText(tempStr.setNum(area));
 ```cpp
 ui->radiusLabel->setText(tempStr.setNum(area));
 ```
+
+2015年7月17日读完第一章。
